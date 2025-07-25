@@ -80,7 +80,7 @@ iface = gr.ChatInterface(
         scale=7
     ),
     title="🐍 Python Expert Chatbot",
-    description="This chatbot uses Google's Gemini API to answer any question about Python.",
+    description="Start your Python learning with AI.",
     theme=gr.themes.Default(
         primary_hue="blue", 
         secondary_hue="blue",
